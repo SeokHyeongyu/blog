@@ -1,6 +1,5 @@
 <template>
 <div>
-  <div>
    <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
             <div class="container">
                 <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
@@ -17,7 +16,6 @@
                 </div>
             </div>
         </nav>
-  </div>
 </div>
 </template>
 <script>
@@ -25,5 +23,3 @@ export default {
   name: "header",
 };
 </script>
-
-
